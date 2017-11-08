@@ -19,7 +19,7 @@ public class RobotGraffiti {
 			}
 			
 			if (i == 4) {
-				NAME.turn(90);
+				NAME.turn(120);
 			}
 			
 			NAME.move(100);
